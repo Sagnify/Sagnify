@@ -35,7 +35,7 @@
 
 currently vibing with **Django**, **React**, **Next.js**, and experimenting with **AI/ML** to solve real problems. love building stuff that makes people's lives easier (or at least more interesting).
 
-based in **Kolkata** 🇮🇳, fueled by **chai** ☕, and always ready to jam on code or music 🎵
+based in **Kolkata** 🇮🇳, fueled by **coffee** ☕, and always ready to jam on code or music 🎵
 
 <br clear="both"/>
 
@@ -165,10 +165,10 @@ const sagnik = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sagnify&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnify&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Sagnify&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Sagnify&theme=radical&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnify&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sagnify&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -177,6 +177,7 @@ const sagnik = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 💭 random wisdom for today
 
@@ -198,7 +199,7 @@ const sagnik = {
 - 📚 **learning** new frameworks (there's always something new lol)
 - 🎯 **contributing** to open source projects
 - 🍛 **cooking** some good biryani or trying new desi recipes
-- ☕ **sipping chai** while planning my next project
+- ☕ **sipping coffee** while planning my next project
 - 🎬 **binge-watching** tech talks and music documentaries
 
 <br clear="both"/>
