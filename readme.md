@@ -166,7 +166,7 @@ const sagnik = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Sagnify&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Sagnify&theme=radical&hide_border=true" />
+<!-- <img width="49%" src="https://streak-stats.demolab.com?user=Sagnify&theme=radical&hide_border=true" /> -->
 
 <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sagnify&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 
